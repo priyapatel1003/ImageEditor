@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imageeditor</string>
+    <string name="image_editor">Image Editor</string>
+    <string name="todo">TODO</string>
+</resources>
